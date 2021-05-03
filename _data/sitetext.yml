@@ -431,7 +431,7 @@ nl: &DEFAULT_NL
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Neem contact op"
+    title: "Contact"
     text: "Robert: +31611244062"
     section: contact
     name: "Naam*"
