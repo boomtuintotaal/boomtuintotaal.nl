@@ -336,7 +336,7 @@ nl: &DEFAULT_NL
       - title: "Boomspecialist"
         desc: "Als boomspecialist is Robert een belangrijke schakel tussen mens en natuur. Hij kijkt op maat waar de behoefte liggen en zal een passend plan aanbieden die naadloos aansluit op uw wensen."
         icon: fas fa-tree
-      - title: "Hoevenier"
+      - title: "Hovenier"
         desc: "Robert legt tuinen aan op maat en helpt u met het bedenken van een ontwerp voor uw tuin of het realiseren van uw eigen ontwerp"
         icon: fab fa-pagelines #find more at https://fontawesome.com/icons
 
@@ -368,7 +368,7 @@ nl: &DEFAULT_NL
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-    end: "Uw eigen landschap verzorgings project!"
+    end: "Uw eigen project!"
 
   about:
     title: "About Us"
@@ -432,7 +432,7 @@ nl: &DEFAULT_NL
 
   contact:
     title: "Neem contact op"
-    text: "Boom tuin totaal"
+    text: "Robert: +31611244062"
     section: contact
     name: "Naam*"
     name-validation: "Voer uw naam in."

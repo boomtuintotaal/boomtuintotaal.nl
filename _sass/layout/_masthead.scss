@@ -24,6 +24,9 @@ header.masthead {
       margin-bottom: 25px;
       @include heading-font;
     }
+    .intro-logo {
+      margin-bottom: 25px;
+    }
   }
 }
 @media(min-width:768px) {
