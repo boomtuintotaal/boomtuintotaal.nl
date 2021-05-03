@@ -53,9 +53,9 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 
- # Dutch
+# Dutch
 # -----------------
-en: &DEFAULT_NL
+nl: &DEFAULT_NL
   nav:
     - title: "Diensten"
       section: services

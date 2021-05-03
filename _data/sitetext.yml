@@ -321,7 +321,7 @@ es-CO:
 
 # Dutch
 # -----------------
-en: &DEFAULT_NL
+nl: &DEFAULT_NL
   header:
     title: Landschapsverzorging
     text: RJA Boom Tuin Totaal
