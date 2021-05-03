@@ -347,7 +347,7 @@ nl: &DEFAULT_NL
     closebutton: "Sluit Project"
 
   timeline:
-    title: "Over boom tuin totaal"
+    title: "Over ons"
     text: "Landschapsverzorging"
     section: timeline
     # left is the default
