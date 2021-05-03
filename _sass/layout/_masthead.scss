@@ -48,6 +48,9 @@ header.masthead {
         margin-bottom: 50px;
         @include heading-font;
       }
+      .intro-logo {
+        margin-bottom: 25px;
+      }
     }
   }
 }
