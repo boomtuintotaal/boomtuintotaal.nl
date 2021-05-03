@@ -432,7 +432,7 @@ nl: &DEFAULT_NL
 
   contact:
     title: "Contact"
-    text: "Robert: +31611244062"
+    text: "Telefoon: <a href='tel:+31611244062'>+31611244062</a>"
     section: contact
     name: "Naam*"
     name-validation: "Voer uw naam in."

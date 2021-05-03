@@ -17,6 +17,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : RJA Boom Tuin Totaal
+titleheader: "<span style='color:#623810'>RJA Boom Tuin</span> Totaal"
 email      : info@boomtuintotaal.nl #this is also the email contact forms will go to
 description: "Landschapsverzorging"
 author     : Robert Jansen
