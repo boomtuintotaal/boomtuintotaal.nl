@@ -52,3 +52,18 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+ # Dutch
+# -----------------
+en: &DEFAULT_NL
+  nav:
+    - title: "Diensten"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "Over ons"
+      section: timeline
+    - title: "Contact"
+      section: contact
+nl-NL:
+  <<: *DEFAULT_NL
